@@ -1,8 +1,8 @@
+<h1> Hello, My name is Josh. </h1>
 @JoshNarindra - Joshua Bhawanlall
 
-Studying BSc Computer Systems Enginneering with a year in Data Analytics at the University of Kent.
-
-jbhawanlall@gmail.com
+I am currently studying BSc Computer Systems Enginneering with a year in Data Analytics at the University of Kent.
+Based in London/Canterbury.
 
 <!---
 JoshNarindra/JoshNarindra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
