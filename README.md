@@ -1,7 +1,8 @@
 <h1> Hello, My name is Josh. </h1>
 
 BSc Computer Systems Enginneering with a year in Data Analytics at the University of Kent.
-Based in London/Canterbury.
+Currently enrolled on Capita NOVUS Full Stack Software Development Course.
+Based in London.
 
 <!---
 JoshNarindra/JoshNarindra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
