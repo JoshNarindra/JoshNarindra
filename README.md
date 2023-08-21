@@ -1,7 +1,7 @@
 <h1> Hello, My name is Josh. </h1>
 
 BSc Computer Systems Enginneering with a year in Data Analytics at the University of Kent.
-Currently enrolled on Capita NOVUS Full Stack Software Development Course.
+Recently Finishes Capita NOVUS Full Stack Software Development Stream.
 Based in London.
 
 <!---
